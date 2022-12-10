@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules
+
+# System related files
+.DS_Store
+
+# Build related files
+lib
+types

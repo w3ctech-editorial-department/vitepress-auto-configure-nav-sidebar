@@ -1,0 +1,12 @@
+# User-facing related files
+.prettierignore
+
+# Yaml files
+pnpm-lock.yaml
+
+# Build related files
+lib
+types
+
+# Typescript related files
+tsconfig.json

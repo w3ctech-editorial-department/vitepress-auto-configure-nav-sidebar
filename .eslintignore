@@ -1,0 +1,5 @@
+# TypeScript related files
+*/**.d.ts
+
+# Build related files
+lib
