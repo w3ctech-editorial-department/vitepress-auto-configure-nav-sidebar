@@ -1,6 +1,6 @@
 {
   "name": "@w3ctech-editorial-department/vitepress-auto-configure-nav-sidebar",
-  "version": "1.0.0",
+  "version": "1.0.0-beta.0",
   "description": "自动生成 vitepress 导航栏和侧边栏",
   "type": "commonjs",
   "packageManager": "pnpm@7.15.0",
