@@ -21,9 +21,9 @@ pnpm add --save-dev|-D @w3ctech-editorial-department/vitepress-auto-configure-na
 ### 在 `vitepress` 配置中使用插件，示例如下
 
 ```js
-import AutoConfigureNavSidebarPlugin from '@w3ctech-editorial-department/vitepress-auto-configure-nav-sidebar'
+import AutoConfigureNavSidebar from '@w3ctech-editorial-department/vitepress-auto-configure-nav-sidebar'
 
-const { nav, sidebar } = AutoConfigureNavSidebarPlugin({
+const { nav, sidebar } = AutoConfigureNavSidebar({
   collapsed: true,
   isCollapse: true,
   showNavIcon: false,
